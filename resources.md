@@ -21,6 +21,9 @@ This online book is a little outdated by now, but it does teach the fundamentals
 
 ### Python documentation (https://docs.python.org/3/)
 
+### Newcoder.io (http://newcoder.io/)
+A great website for new coders, or coders who are looking to get comfortable with Python. This website has fantastic, practical tutorials. It's great for those who love a hands-on approach to learning.
+
 # Libraries
 ## scikit-learn
 ### Jake Vanderplas - Machine Learning with Scikit-Learn (https://www.youtube.com/watch?v=HC0J_SPm9co)
