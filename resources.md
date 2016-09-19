@@ -17,6 +17,10 @@ This is an amazing book that goes over various machine learning algorithms in de
 ### Dive Into Python 3 (http://www.diveintopython3.net/table-of-contents.html)
 This online book is a little outdated by now, but it does teach the fundamentals of Python 3. This is a good book if you already have some background in programming, but not so great if you're a beginner. I haven't found any up-to-date resources for beginners that want to learn Python.
 
+### Python for Data Analysis (http://shop.oreilly.com/product/0636920023784.do)
+
+### Python documentation (https://docs.python.org/3/)
+
 # Libraries
 ## scikit-learn
 ### Jake Vanderplas - Machine Learning with Scikit-Learn (https://www.youtube.com/watch?v=HC0J_SPm9co)
