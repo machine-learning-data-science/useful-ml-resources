@@ -1,6 +1,9 @@
 # Useful Machine Learning Resources
 Useful machine learning resources for anyone under the sun.
 
+### Machine Learning
+- [Sebastian Raschka's Resources](http://sebastianraschka.com/resources.html)
+
 ### Deep learning
 - Concepts:
 	- [Deep Learning Book](http://www.deeplearningbook.org/)
